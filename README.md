@@ -1,3 +1,3 @@
 # Sample-Repo-for-Tutorial
 i am sowmya
-![Image](https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial?branch=master&filepath=images%2Fwheel.jpg)
+![https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial?branch=master&filepath=images%2Fwheel.jpg]
