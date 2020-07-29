@@ -6,3 +6,4 @@ i am sowmya
 </p>
 ![https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/tree/master/images]
 <img src= "https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/images/wheel.jpg">
+<img src= "https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/blob/master/images/wheel.jpg">
