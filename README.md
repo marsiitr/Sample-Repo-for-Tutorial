@@ -5,3 +5,4 @@ i am sowmya
  + <img src= "https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial?branch=master&filepath=images%2Fwheel.jpg">
 </p>
 ![https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/tree/master/images]
+<img src= "https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/images/wheel.jpg"
