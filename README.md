@@ -3,7 +3,7 @@
 ##  ABSTRACT:
  Hop bot is used to jump over any obstacle of height of comparable dimension to that of the bot. Motor, Springs and Gears are used for its proper functioning along with a pair of Non-motorized wheels.
 
-![Image](https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/blob/master/Images/Mechanical%20cad.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Mechanical%20cad.jpg)
 
 ## INTRODUCTION:
  A jumping robot can cross the obstacle several times its own height.Military and disaster management teams sometimes come across situations where they need a robot which can be operated in any terrain. There we need hop bot which occupies less space, could skip obstacles by jumping mechanism.
@@ -29,7 +29,7 @@
  The shaft of a DC Motor is connected to worm gear and worm gear is connected to worm wheel. When the shaft of motor rotates, the worm gear starts rotating and due to meshing worm wheel also rotates and transmission takes place. And this worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft.
 
 <center>
-<img src= https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/blob/master/Images/Gears%20Arangement.jpg>
+<img src= "https://github.com/pabbathisowmya/HopBot/blob/master/Images/Gears%20Arangement.jpg">
 </center>
  
 ### SPUR GEAR:
@@ -41,7 +41,7 @@ Here we have used external spur gears.
 #### _Mechanism:_
  Worm wheel is connected to a spur gear of 2pi/3 teeth through a shaft. Gear ratio of two spur gears used is “three”, Small one with full teeth and one gear with large one third of teeth. When these two gears are meshed with each other, the spring gets compressed and when the part of large gear without teeth gets in contact with small gear the bot will jump and when the teeth of large gear again comes in contact with small gear, by that time the bot will be on ground. And this process continues.
 
-![Image](https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/blob/master/Images/spring.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Spring.jpg)
  
 ### SPRING:
 #### _Motto of usage:_  
@@ -79,7 +79,7 @@ Here we have used external spur gears.
 #### _Position:_
  This arduino was placed outside of the board to reduce the weight of the bot and it was connected with wires to the motor. Here arduino uno was used since our bot doesn’t require high amount of power and lot of pins and memory space.
 
-![Image](https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/blob/master/Images/arduino%20uno.jpg)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Arduino%20uno.jpg)
 
 ### ACCELEROMETER:
 #### _Motto of usage:_
@@ -91,7 +91,7 @@ Here we have used external spur gears.
 
 ### WORKFLOW:
 
-![Image](https://github.com/pabbathisowmya/Sample-Repo-for-Tutorial/blob/master/Images/Work%20Flow.PNG)
+![Image](https://github.com/pabbathisowmya/HopBot/blob/master/Images/Work%20Flow.PNG)
 
 ### APPLICATIONS:
  Hop bot has a strong ability to overcome obstacles. It can be applied to the occasion with complex and changeable environment, such as detection of plane surface, post disaster relief and military reconnaissance.
